@@ -22,9 +22,9 @@ React-Study/
 
 날짜별 학습 내용으로 이동할 수 있습니다.
 
-| 날짜 | 학습 내용 |
-|---|---|
-| [2026-09-16](./Study/study%289-16%29.md) | React / Vite 학습 |
+| 날짜 | 학습 키워드 | 학습 내용 |
+|---|---|---|
+| [2026-09-16](./Study/study%289-16%29.md) | React, Vite, JSX, Component, Props, Event, Fragment, 모듈화, React Developer Tools | React / Vite 학습 |
 
 ## 🧪 QUIZ
 

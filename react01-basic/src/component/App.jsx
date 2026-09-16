@@ -1,5 +1,5 @@
-import FrontComp from './component/FrontComp';
-import BackComp from './component/BackComp';
+import FrontComp from './FrontComp';
+import BackComp from './BackComp';
 
 function App() {
   return (<>

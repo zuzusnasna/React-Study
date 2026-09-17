@@ -1,7 +1,8 @@
-function FrontComp(props) {
+export default function FrontComp(props) {
   return (<>
-    <li><a href='/' onClick={()=>{
-      props.onMyEvent1();
+    <li><a href="/" onClick={(event)=>{      
+      event.preventDefault();
+      props.onSetMode('front');
     }}>프론트엔드</a></li>
     <ul>
       <li>HTML5</li>
@@ -11,5 +12,3 @@ function FrontComp(props) {
     </ul>
   </>)
 }
-
-export default FrontComp

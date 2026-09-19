@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "모던 자바스크립트 Deep Dive",
+    "author": "이웅모",
+    "publisher": "위키북스",
+    "price": 45000
+  },
+  {
+    "id": 2,
+    "title": "Do it! HTML+CSS+자바스크립트 웹 표준의 정석",
+    "author": "고경희",
+    "publisher": "이지스퍼블리싱",
+    "price": 30000
+  },
+  {
+    "id": 3,
+    "title": "리액트를 다루는 기술",
+    "author": "김민준",
+    "publisher": "길벗",
+    "price": 36000
+  },
+  {
+    "id": 4,
+    "title": "혼자 공부하는 컴퓨터 구조 + 운영체제",
+    "author": "강민철",
+    "publisher": "한빛미디어",
+    "price": 27000
+  },
+  {
+    "id": 5,
+    "title": "Do it! 점프 투 파이썬",
+    "author": "박응용",
+    "publisher": "이지스퍼블리싱",
+    "price": 18800
+  }
+]

@@ -3,9 +3,9 @@ import { useEffect, useState } from 'react';
 const ExternalApiFetcher2 = () => {
   const [weather, setWeather] = useState(null);
   const [error, setError] = useState('');
-
+  
   useEffect(() => {
-    const apiKey = import.meta.env.VITE_OPENWEATHER_API_KEY;
+    const apiKey = 'z'; // VITE_OPENWEATHER_API_KEY 환경 변수에서 가져오기
 
     if (!apiKey) {
       setError('VITE_OPENWEATHER_API_KEY가 설정되지 않았습니다.');
@@ -23,6 +23,7 @@ const ExternalApiFetcher2 = () => {
       })
       .then((json) => {
         setWeather(json);
+        
       })
       .catch((e) => {
         setError(e.message);

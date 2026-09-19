@@ -8,7 +8,8 @@ React / Vite 학습 내용을 날짜별로 정리한 저장소입니다.
 React-Study/
 ├── Study/
 │   ├── study(9-16).md
-│   └── study(9-17).md
+│   ├── study(9-17).md
+│   └── study(9-19).md
 │
 ├── QUIZ/
 │   ├── 9-16/
@@ -27,6 +28,7 @@ React-Study/
 |---|---|---|
 | [2026-09-16](./Study/study%289-16%29.md) | React, Vite, JSX, Component, Props, Event, Fragment, 모듈화, React Developer Tools | React / Vite 학습 |
 | [2026-09-17](./Study/study%289-17%29.md) | State, useState, Style, Image, Form, Shallow Comparison, Router, Outlet, Link, NavLink | React 상태 관리, 폼 처리, 라우팅 학습 |
+| [2026-09-19](./Study/study%289-19%29.md) | 함수형 컴포넌트, useEffect, 의존성 배열, useState, fetch, JSON, public, map | React 생명주기 관련 Hook과 로컬 JSON 데이터 처리 학습 |
 
 ## 🧪 QUIZ
 

@@ -48,6 +48,5 @@ React-Study/
 
 - **Study** : 날짜별 학습 내용을 Markdown으로 정리
 - **QUIZ** : 날짜별 React / Vite 실습 프로젝트 관리
-- **react04-hook-optimization** : React Hook 성능 최적화 실습
 
 새로운 학습 및 실습 날짜가 추가되면 각각의 목차에 링크를 추가합니다.

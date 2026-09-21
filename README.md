@@ -9,13 +9,17 @@ React-Study/
 ├── Study/
 │   ├── study(9-16).md
 │   ├── study(9-17).md
-│   └── study(9-19).md
+│   ├── study(9-19).md
+│   └── study(9-21).md
 │
 ├── QUIZ/
 │   ├── 9-16/
 │   │   ├── vite-project/
 │   │   └── vite-project(1)/
 │   └── 9-17/
+│
+├── react04-hook-optimization/
+│   └── React Hook 성능 최적화 실습
 │
 └── README.md
 ```
@@ -29,6 +33,7 @@ React-Study/
 | [2026-09-16](./Study/study%289-16%29.md) | React, Vite, JSX, Component, Props, Event, Fragment, 모듈화, React Developer Tools | React / Vite 학습 |
 | [2026-09-17](./Study/study%289-17%29.md) | State, useState, Style, Image, Form, Shallow Comparison, Router, Outlet, Link, NavLink | React 상태 관리, 폼 처리, 라우팅 학습 |
 | [2026-09-19](./Study/study%289-19%29.md) | 함수형 컴포넌트, useEffect, 의존성 배열, useState, fetch, JSON, public, map | React 생명주기 관련 Hook과 로컬 JSON 데이터 처리 학습 |
+| [2026-09-21](./Study/study%289-21%29.md) | useRef, useMemo, useCallback, useId, 메모이제이션, 성능 최적화 | React 렌더링과 Hook을 이용한 성능 최적화 학습 |
 
 ## 🧪 QUIZ
 
@@ -43,5 +48,6 @@ React-Study/
 
 - **Study** : 날짜별 학습 내용을 Markdown으로 정리
 - **QUIZ** : 날짜별 React / Vite 실습 프로젝트 관리
+- **react04-hook-optimization** : React Hook 성능 최적화 실습
 
 새로운 학습 및 실습 날짜가 추가되면 각각의 목차에 링크를 추가합니다.

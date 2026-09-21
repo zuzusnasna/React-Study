@@ -44,9 +44,18 @@ React-Study/
 | [2026-09-16](./QUIZ/9-16/) | React / Vite 실습 |
 | [2026-09-17](./QUIZ/9-17/) | React / Vite 실습 |
 
+## 🔗 연계 프로젝트
+
+React 학습 내용을 실제 Spring Boot 프로젝트의 프론트엔드에 적용한 프로젝트입니다.
+
+| 프로젝트 | 설명 |
+|---|---|
+| [MemberArticle](https://github.com/zuzusnasna/MemberArticle) | Spring Boot + React 기반 회원 및 게시글 관리 프로젝트 |
+
 ## 📌 폴더별 역할
 
 - **Study** : 날짜별 학습 내용을 Markdown으로 정리
 - **QUIZ** : 날짜별 React / Vite 실습 프로젝트 관리
+- **react04-hook-optimization** : React Hook 성능 최적화 실습
 
 새로운 학습 및 실습 날짜가 추가되면 각각의 목차에 링크를 추가합니다.
